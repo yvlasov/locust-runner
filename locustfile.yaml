@@ -3,7 +3,7 @@ execution:
   concurrency: 10
   ramp-up: 1m
   iterations: 1000
-  scenario: scenario.yaml
+  scenario: example
 
 scenarios:
   example:
